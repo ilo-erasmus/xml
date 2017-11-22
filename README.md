@@ -1,12 +1,15 @@
 # xml 
-plik .zip niechcący wgrał się do foldery .gitgnore
+
+# Poporawiona wersja
 
 BASED ON
 
-https://developer.android.com/reference/org/xmlpull/v1/XmlPullParser.html
+http://theopentutorials.com/tutorials/android/xml/android-simple-xml-dom-parser/
 
 Przedstawiona metoda jest dosyć toporna ale najbardziej uniwersalna
 
 Proponuje zapoznać sie z zinnymi metodami "chodzenia" po xml-u niż tylko .next(),
 
 funkcje typu .nextTag() czy .requireEvent() napewno się pzrydadzą
+
+Poporawiona wersja
